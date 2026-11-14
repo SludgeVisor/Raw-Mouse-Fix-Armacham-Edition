@@ -1,0 +1,13 @@
+LIBRARY user32.dll
+EXPORTS
+RegisterClassExA@4
+CreateWindowExA@48
+DefWindowProcA@16
+GetMessageA@16
+DispatchMessageA@4
+RegisterRawInputDevices@12
+GetRawInputData@20
+GetForegroundWindow@0
+GetWindowThreadProcessId@8
+SetCursorPos@8
+SystemParametersInfoA@16
